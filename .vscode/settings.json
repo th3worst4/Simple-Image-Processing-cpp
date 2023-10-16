@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.scss": "css",
+        "*.nes": "wat",
+        "fstream": "cpp"
+    }
+}
